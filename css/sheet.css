@@ -1,0 +1,462 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+width: 1350px;
+
+
+
+}
+
+.header {
+    background-color: #09c;
+    text-align:center ;
+    background-image: url(../drew-coffman-1872.jpg);
+     background-size: 100% 100%;
+     height: 100vh;
+     color: #fff ;
+     
+     
+}
+
+
+
+
+
+.header h1{
+
+    font-weight: 200;
+    font-style: normal;
+}
+
+
+ .nav {
+
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 1%;
+   
+    
+}
+
+.container {
+    
+    width: 80%;
+    margin: auto;
+}
+.logo{
+
+width: 15%;
+
+}
+
+.nav ul {
+    float: right;
+}
+.nav ul li  {
+    display: inline-block;
+ 
+    
+    
+}
+.nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding-right: 20px;
+    
+    margin-right: 20px;
+  
+   
+}
+
+
+
+
+
+
+
+
+.header h1 {
+
+    font-size: 48px;
+   
+}
+
+
+.header p {
+
+    font-size: 16px;
+    font-family: 'Dancing Script', cursive;
+   
+}
+.btn {
+    padding: 15px 30px;
+    color: #fff;
+    border: none;
+}
+.btn1 {
+    background-color: tan;
+    color:white;
+}
+.btn2{
+
+background-color: white;
+color: black;
+
+
+}
+
+
+    
+
+.nav img {
+    
+    float: left;
+    margin-top:0px ;
+  }
+
+.clear-fix{
+    clear: both;
+}
+
+
+
+.meals {
+    
+   
+width: 100%;
+display: inline-block;
+margin-left: 60px;
+}
+
+.meal {
+    
+
+     width: 30%;
+     text-align: center;
+     display: inline-block;
+     
+     
+
+}
+.meal img {
+
+    
+    width: 100% ;
+}
+.meal h3 {
+    font-size: 18px;
+    font-family: 'segoe ui light';
+    margin: 15px 0px ;
+    margin-left: z;
+}
+    
+.title{
+  width: ;
+padding-top: 10%;
+padding-bottom: 5%;
+    text-align: center;
+}
+
+.title h3 {
+
+font-weight: 200;
+font-size: 28;
+font-style: normal;
+
+}
+
+
+
+
+.parentt{
+    width: 100%;
+    
+
+display: inline-block;
+margin-top: 10%;
+}
+.imagee img{
+
+width: 100%;
+
+
+}
+.textt{
+
+width: 40%;
+text-align: center;
+float: right;
+margin-right: 10%;
+padding-top: 7%;
+
+
+}
+.imagee{
+
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 15;
+}
+.textt p {
+
+margin-top: 4%;
+font-size: 18;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 200;
+
+
+}
+.parenttt{
+    width: 100%;
+    
+
+display: inline-block;
+margin-top: 10%;
+}
+.imageee img {
+
+width: 100%;
+float: right;
+
+
+}
+.imageee{
+
+    margin-right: 5%;
+    margin-top: 15;
+    float: right;
+width: 40%;
+
+}
+.texttt{
+width: 40%;
+text-align: center;
+
+
+padding-top:20 px;
+
+}
+.textt h3 {
+
+
+    text-align: left;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 32;
+
+}
+.table img {
+
+width: 40px;
+border-radius: 20px;
+
+}
+
+.table p{
+
+font-size: 25;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 200;
+}
+.table {
+
+padding-bottom: 8%;
+
+
+}
+.tdd{
+
+padding-left: 5%;
+padding-bottom: 2%;
+
+}
+.parent-3 {
+    
+    background-color: #f8f8f8;
+    margin: 0%;
+   
+  }
+  
+  .parent-3 .img-child {
+    width: 50%;
+    display: inline-block;
+    
+    
+  }
+  .parent-3 .img-child img {
+    width: 70%;
+    height: 100%;
+    margin-left: 10%;
+  }
+  
+  .parent-3 .text-child {
+    width: 50%;
+  
+    display: inline-block;
+   
+    
+  }
+  .parent-3 .text-child p {
+    color: #686868;
+    font: 17px "Alegreya Sans", sans-serif;
+    line-height: 200%;
+    margin-left: 70px;
+  }
+  .parent-3 .text-child h2 {
+    color: #303030;
+    font: 25.5px "Alegreya Sans", sans-serif;
+    word-spacing: 2px;
+    margin-left: 70px;
+    margin-bottom: 25px;
+  }
+  
+  .parent-3 ul li {
+    padding: 15px 0px 15px 50px;
+    list-style: none;
+  }
+  .parent-3 ul li span {
+    font: 17px "Alegreya Sans", sans-serif;
+    color: #8e7754;
+  }
+  
+  .parent-3 ul li i {
+    margin-right: 10px;
+    padding: 20px;
+    border: 3px;
+    border-color: #1d0858;
+    border-radius: 80px;
+    color: #fff;
+    background-color: #8e7754;
+  }
+  
+  /* ---------------------------------------------------------------------------------------------------- */
+  
+  .footer {
+    background-color: #353330;
+    color: #797979;
+    padding: 50px 0px 40px;
+    font: 14px "Alegreya Sans", sans-serif;
+    text-align: center;
+  }
+  .footer p {
+    color: #777777;
+    font: 15px "Alegreya Sans", sans-serif;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .social {
+    margin: auto;
+    padding: 20px 0px;
+  }
+  .social i {
+    margin-left: 25px;
+    padding: 15px;
+    background-color: #494641;
+    border-radius: 50%;
+    font-size: 19px;
+  }
+  .social .face:hover {
+    background-color: #4064ac;
+    transition: 0.5s ease-out 0.1s;
+  }
+  
+  .social .ginga:hover {
+    background-color: #d54836;
+    transition: 0.5s ease-out 0.1s;
+  }
+  .social .linkid:hover {
+    background-color: #0e72a3;
+    transition: 0.5s ease-out 0.1s;
+  }
+  .social .twi:hover {
+    background-color: #1a98e8;
+    transition: 0.5s ease-out 0.1s;
+  }
+  
+  /* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --> */
+  
+  .parent-4 {
+    color: #969696;
+    background-color: #403d38;
+    padding: 60px 0px 52px;
+    font: 16px "Alegreya Sans", sans-serif;
+  }
+  .parent-4 .row {
+    width: 80%;
+    margin: auto;
+  }
+  .parent-4 .row .col {
+    width: 19%;
+    float: left;
+    padding: 0px 15.9375px;
+  }
+  .parent-4 .row .col h4 {
+    color: #fff;
+    font: 18px "Alegreya Sans", sans-serif;
+    margin: 0px 0px 25px;
+  }
+  .parent-4 .row .col p {
+    color: #969696;
+    font: 16px "Alegreya Sans", sans-serif;
+    margin: 0px 0px 20px;
+    line-height: 200%;
+  }
+  
+  .parent-4 .row .col-2 {
+    width: 19%;
+    float: left;
+    padding: 0px 15.9375px;
+  }
+  .parent-4 .row .col-2 h4 {
+    color: #fff;
+    font: 18px "Alegreya Sans", sans-serif;
+    margin: 0px 0px 25px;
+  }
+  .parent-4 .row .col-2 ul li {
+    color: #969696;
+    font: 16px "Alegreya Sans", sans-serif;
+    margin: 0px 0px 15px;
+    padding: 0px 0px 13px;
+    border-bottom: 2px #494641 solid;
+  }
+  
+  .parent-4 .row .col-2 ul li i {
+    color: #ffffff5d;
+    margin-right: 15px;
+  }
+  
+  .parent-4 .row .col-3 {
+    background-image: url(../contact-details-map.png);
+    background-size: 100% 100%;
+  
+    width: 19%;
+    float: left;
+    padding: 0px 15.9375px;
+  }
+  .parent-4 .row .col-3 h4 {
+    color: #fff;
+    font: 18px "Alegreya Sans", sans-serif;
+    margin: 0px 0px 25px;
+  }
+  .parent-4 .row .col-3 ul li {
+    color: #969696;
+    font: 16px "Alegreya Sans", sans-serif;
+    margin: 0px 0px 15px;
+    padding: 0px 0px 13px;
+    border-bottom: 2px #494641 solid;
+  }
+  
+  .parent-4 .row .col-3 ul li i {
+    color: #ffffff5d;
+    margin-right: 15px;
+  }
+  
+  .border-non {
+    border-bottom: none;
+  }
+  
+  .clear-fix {
+  clear: both;
+  }
